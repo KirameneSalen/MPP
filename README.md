@@ -1,5 +1,4 @@
 ## Problema 7
-----------------------
 
 
 #### Fiecare  voluntar  folosește  o  aplicație  desktop  cu  următoarele funcționalități: 
